@@ -9,16 +9,21 @@ begin presentation
  today we are going to talk about typed.js 
 
 TALK ABOUT TYPED.JS
+Typed.js is a javascript library created by Matt Boldt. It creates typed text animations like on your screen like you are typing on a typewriter
+if you dont know what a typewriter looks like this is an old image i found on the internet of a typewriter
 
-minute 3: icebreaker
-there are a lot of libraries out there to use. most of them are created by independent developers and not all of them have cristal clear indstructions
-some libraries have some bugs here and there and poor documentation about how to fix them
+so in the next few minutes, i am going to show you four examples of what this library can do and how it works  I will show the example first and then go over the code briefly
 
-minute 4: how to set up your library? You do the same thing like building any other website. most libraries have a page on github where you can download their files. once you download their
-files you kinda have to search where the dependecies are located and you copy and paste those files into your project folder and link them 
-into your html. kinda the same way you would link your external css file to your html file
+the easiest way to get started is to copy the cdn link into your html and get the jquery cdn as well because this library works on jquery 
+so i guess its a  jquery library?
 
-minute 5 once your configured your files, you have to read the documentation to understand how to use the library. most libraries have great 
-documentation and examples on how to use them
+show example
 
-rest of 
+why would you use typed.js?
+Its a great time saver if you want to create a a small interactive experience on your projects. 
+You can definitly do this by yourself vanilla javascript or jquery 
+but if you dont have the knowledge or the time, this would be a great alternative
+
+show examples
+ 
+
