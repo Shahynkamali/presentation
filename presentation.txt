@@ -1,0 +1,24 @@
+begin presentation
+
+ //minute 1: talk about what a open source project is//
+
+ An open source project is a collection of code that executes a certain action a lot faster than doing it 
+ manually with javascript or css
+ couple populair open source projects are React, Jquery, Math.js and bootstrap
+ these open source projects have their own attributes and classes that you have to use in order to executes the functions
+ today we are going to talk about typed.js 
+
+TALK ABOUT TYPED.JS
+
+minute 3: icebreaker
+there are a lot of libraries out there to use. most of them are created by independent developers and not all of them have cristal clear indstructions
+some libraries have some bugs here and there and poor documentation about how to fix them
+
+minute 4: how to set up your library? You do the same thing like building any other website. most libraries have a page on github where you can download their files. once you download their
+files you kinda have to search where the dependecies are located and you copy and paste those files into your project folder and link them 
+into your html. kinda the same way you would link your external css file to your html file
+
+minute 5 once your configured your files, you have to read the documentation to understand how to use the library. most libraries have great 
+documentation and examples on how to use them
+
+rest of 

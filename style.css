@@ -1,0 +1,72 @@
+/* f
+ont-family: 'Major Mono Display', monospace;
+font-family: 'Bangers', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Bungee Inline', cursive;
+font-family: 'Tulpen One', cursive;
+ */
+
+
+ body{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    align-items: center;
+    height: auto;
+    background: url("https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+ .wrapper{
+     width: 800px;
+     background: lightblue;
+     opacity:0.7;
+     text-align:center;
+ }
+
+ h1{
+     font-family: 'Major Mono Display',monospace;
+     font-size: 100px;
+
+ }
+h2.one{
+    font-family: 'Tulpen One', cursive;
+    font-size: 120px;
+
+}
+span.element{
+    font-family: 'Tulpen One', cursive;
+    
+}
+h2.two{
+    font-family: 'Bungee Inline', cursive;
+    font-size: 90px;
+
+}
+
+label{
+    font-size: 30px;
+
+}
+input{
+    height:250px;
+    font-size: 30px;
+    font-family: 'Rock Salt', cursive;
+     outline: 0;
+     border-width: 2px 2px 2px;
+     border-color: green;
+     font-weight: bold;
+     color: black;
+     transition: all 0.28s ease;
+     box-shadow: none;
+}
+h3#typed6{
+    font-size:70px;
+    font-family: 'Bangers',
+    cursive;
+
+}
